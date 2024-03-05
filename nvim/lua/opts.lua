@@ -20,7 +20,6 @@ cmd(":setlocal spell spelllang=en_us")
 
 -- [[ Theme ]]
 opt.syntax = "ON"                -- str:  Allow syntax highlighting
-opt.termguicolors = true         -- bool: If term supports ui color then enable
 cmd('colorscheme tokyonight-night')
 
 -- [[ Search ]]
