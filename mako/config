@@ -1,0 +1,9 @@
+# https://www.reddit.com/r/swaywm/comments/f1o2az/solarized_dark_color_scheme_for_mako_notifications/
+font=Source Sans Pro Semi-Bold 10
+background-color=#1a1b26
+text-color=#c0caf5
+border-color=#24283b
+default-timeout=5000
+
+[urgency=high]
+text-color=#ff9e64
